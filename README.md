@@ -1,2 +1,1 @@
-# alx-react
-This repository contains project(s) on React
+0x06-React_Immutable
